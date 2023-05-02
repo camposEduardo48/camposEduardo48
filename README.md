@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MAMBA48&show_icons=true&count_private=true&hide_border=true&title_color=ffd200&icon_color=ffd200&text_color=c9d1d9&bg_color=0d1117" alt="Campo's GitHub"/> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAMBA48&layout=compact&hide_border=true&title_color=ffd200&text_color=ffd200&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAMBA48&layout=compact&hide_border=true&title_color=ffd200&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MAMBA48&theme=dracula)
