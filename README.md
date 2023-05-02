@@ -3,4 +3,4 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MAMBA48&theme=gotham)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MAMBA48&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
