@@ -8,4 +8,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MAMBA48&theme=gotham&row=6&no-bg=true&column=6&margin-w=20&margin-h=20" />
   
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008b&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
