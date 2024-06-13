@@ -14,21 +14,21 @@
 </div>
 
 <div>
-  <p>
+  <div>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
     </a>  
-  </p>
-  <p>
+  </div>
+  <div>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> 
     </a>  
-  </p>
-  <p>
+  </div>
+  <div>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
     </a>  
-  </p>
+  </div>
 </div>
 
 <div align="center">  
