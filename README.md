@@ -22,9 +22,9 @@
     </a>
 </div>
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camposEduardo48&show_icons=true&count_private=false&hide_border=false&title_color=3099CC&icon_color=3099CC&text_color=c9d1d9&bg_color=0d1117" alt="Campo's GitHub"/> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camposEduardo48&show_icons=true&count_private=true&hide_border=true&title_color=3099CC&icon_color=3099CC&text_color=c9d1d9&bg_color=0d1117" alt="Campo's GitHub"/> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposEduardo48&layout=compact&hide_border=false&title_color=3099CC&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camposEduardo48&layout=compact&hide_border=true&title_color=3099CC&text_color=ffffff&bg_color=0d1117" />
 </div>
 
   
