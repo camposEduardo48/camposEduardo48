@@ -7,7 +7,7 @@
       <a href="https://www.linkedin.com/in/camposeduardo48/" target="_blank">
         <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
       </a> 
-      <a href=" maito:contato:eduardo.campos@zapyou.com" target="_blank ">
+      <a href="mailto:contato:eduardo.campos@zapyou.com" target="_blank">
         <img height="28"  src="https://img.shields.io/badge/Contato-3099CC?style=for-the-badge&logo=wembler&logoColor=white">
       </a>
     </p>
