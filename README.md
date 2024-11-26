@@ -8,7 +8,7 @@
         <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
       </a> 
       <a href="mailto:email:contato@eduardocampos.me" target="_blank">
-        <img height="28"  src="https://img.icons8.com/?size=100&id=12580&format=png&Contato-3099CC?style=for-the-badge&logo=wembler&logoColor=white">
+        <img height="28"  src="https://img.icons8.com/?size=100&id=12580&format=png&Contato-3099CC?style=for-the-badge&logo=wembler&logoColor=red">
       </a>
      <a href="https://eduardocampos.me" target="_blank">
         <img height="28"  src="https://img.shields.io/badge/Site-3099CC?style=for-the-badge&logo=wembler&logoColor=white">
