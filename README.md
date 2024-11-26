@@ -16,13 +16,19 @@
     </p>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://devicons.railway.com/i/vuejs.svg" alt="vueJs" width="40" height="40"/> 
+    </a>
     <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
     </a>  
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://devicons.railway.com/i/html5.svg" alt="html5" width="40" height="40"/> 
+    </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://devicons.railway.com/i/git.svg" alt="git" width="40" height="40"/> 
     </a>
@@ -43,12 +49,6 @@
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://devicons.railway.com/i/mongodb.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/vuejs.svg" alt="vueJs" width="40" height="40"/> 
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/html5.svg" alt="html5" width="40" height="40"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
      <img src="https://devicons.railway.com/i/visual-studio-code.svg" alt="vscode" width="40" height="40"/> 
