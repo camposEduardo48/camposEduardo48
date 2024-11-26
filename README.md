@@ -27,37 +27,37 @@
      <img src="https://devicons.railway.com/i/git.svg" alt="typescript" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/javascript.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/javascript.svg" alt="javascript" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/nextjs-dark.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/nextjs-dark.svg" alt="nextJs" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/fastify-dark.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/fastify-dark.svg" alt="fastify" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://devicons.railway.com/i/prisma-dark.svg" alt="typescript" width="50" height="50"/> 
+    <img src="https://devicons.railway.com/i/prisma-dark.svg" alt="prismaORM" width="50" height="50"/> 
    </a>
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://devicons.railway.com/i/vuejs.svg" alt="typescript" width="50" height="50"/> 
+    <img src="https://devicons.railway.com/i/vuejs.svg" alt="vueJs" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/html5.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/html5.svg" alt="html5" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/visual-studio-code.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/visual-studio-code.svg" alt="vscode" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/ubuntu.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/ubuntu.svg" alt="ubuntu" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/mysql.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/mysql.svg" alt="mysql" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/mongodb.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/mongodb.svg" alt="mongodb" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/vitejs.svg" alt="typescript" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/vitejs.svg" alt="viteJs" width="50" height="50"/> 
    </a>
 </div>
 <div align="center">  
