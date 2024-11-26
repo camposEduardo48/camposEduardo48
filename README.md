@@ -15,7 +15,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3099CC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Eduardo+Campos;I+am+26+years+old;I+am+from+Brasil,+SP;I+am+fullstack+developer+at+ZapYou;Be+Welcome!)](https://git.io/typing-svg)
 
-<div style="background: red">
+<div style="color:red">
     <div align="center">
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://devicons.railway.com/i/react.svg" alt="react" width="40" height="40"/> 
