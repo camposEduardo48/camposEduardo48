@@ -33,10 +33,10 @@
      <img src="https://devicons.railway.com/i/nextjs-dark.svg" alt="nextJs" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://devicons.railway.com/i/fastify-dark.svg" alt="fastify" width="50" height="50"/> 
+     <img src="https://devicons.railway.com/i/fastify-light.svg" alt="fastify" width="50" height="50"/> 
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://devicons.railway.com/i/prisma-dark.svg" alt="prismaORM" width="50" height="50"/> 
+    <img src="https://devicons.railway.com/i/prisma-light.svg" alt="prismaORM" width="50" height="50"/> 
    </a>
      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://devicons.railway.com/i/vuejs.svg" alt="vueJs" width="50" height="50"/> 
