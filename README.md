@@ -23,6 +23,9 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://devicons.railway.com/i/git.svg" alt="typescript" width="50" height="50"/> 
+    </a>
 </div>
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=camposEduardo48&show_icons=true&count_private=true&hide_border=true&title_color=3099CC&icon_color=3099CC&text_color=c9d1d9&bg_color=0d1117" alt="Campo's GitHub"/> 
