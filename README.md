@@ -1,9 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3099CC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Eduardo+Campos;I+am+26+years+old;I+am+from+Brasil,+SP;Now+i'm+full+stack+developer+at+ZapYou;Be+Welcome!)](https://git.io/typing-svg)
- 
-<div style="background: red">
-    <p align="rigth">
+<div>
+   <p align="rigth">
      <a href="https://www.linkedin.com/in/camposeduardo48/" target="_blank">
       <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
      </a> 
@@ -14,6 +11,10 @@
       <img height="28"  src="https://img.shields.io/badge/Site-3099CC?style=for-the-badge&logo=wembler&logoColor=white">
      </a>
     </p>
+</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3099CC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Eduardo+Campos;I+am+26+years+old;I+am+from+Brasil,+SP;Now+i'm+full+stack+developer+at+ZapYou;Be+Welcome!)](https://git.io/typing-svg)
+ 
+<div style="background: red">
     <div align="center">
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://devicons.railway.com/i/react.svg" alt="react" width="40" height="40"/> 
