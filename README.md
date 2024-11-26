@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3099CC&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Eduardo+Campos;I+am+26+years+old;I+am+from+Brasil,+SP;Now+i'm+full+stack+developer+at+ZapYou;Be+Welcome!)](https://git.io/typing-svg)
  
-<div>
+<div style="background: red">
     <p align="rigth">
      <a href="https://www.linkedin.com/in/camposeduardo48/" target="_blank">
       <img height="28" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
